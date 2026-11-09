@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+build/
+dist/
+installer/output/
+# Préférences et journaux locaux
+config.json
+*.log
+logs/*
+!logs/.gitkeep
+format_and_convert.txt
+.DS_Store
+Thumbs.db
+docs/build/shots/*.png
+docs/build/pages/
+docs/build/*.png

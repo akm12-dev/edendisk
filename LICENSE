@@ -1,0 +1,28 @@
+LICENCE « CODE CONSULTABLE » AKM12 — EdenDisk
+
+Copyright © 2026 AKM12 – Advanced Knowledge & Maintenance (https://akm12.com).
+Tous droits réservés.
+
+Le code source de EdenDisk est publié pour être lu, étudié et vérifié.
+
+CE QUI EST AUTORISÉ
+  1. Consulter le code, le cloner (git clone) et le télécharger.
+  2. Le compiler et l'exécuter pour votre propre usage, personnel ou professionnel, ou pour
+     vérifier qu'il correspond aux versions officielles.
+  3. Signaler un problème ou proposer une amélioration à AKM12 :
+     https://github.com/akm12-dev/releases/issues
+
+CE QUI N'EST PAS AUTORISÉ SANS ACCORD ÉCRIT D'AKM12
+  1. Redistribuer le code, modifié ou non, ou des versions compilées à partir de ce code.
+  2. Publier une version modifiée, ou réutiliser tout ou partie du code dans un autre logiciel.
+  3. Vendre le logiciel, son code ou un service fondé sur une version modifiée.
+  4. Utiliser le nom, le logo ou les visuels d'AKM12 ou de EdenDisk pour un autre produit.
+
+Les versions officielles, gratuites, sont publiées uniquement par AKM12 sur
+https://akm12.com et https://github.com/akm12-dev/releases.
+
+ABSENCE DE GARANTIE
+Le logiciel et son code sont fournis « en l'état », sans garantie d'aucune sorte. Dans les limites
+permises par la loi, AKM12 ne pourra être tenu responsable d'aucun dommage résultant de leur utilisation.
+
+Pour toute demande d'autorisation : https://akm12.com/contact

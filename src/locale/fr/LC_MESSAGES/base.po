@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EdenDisk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-19 12:00+0000\n"
+"PO-Revision-Date: 2025-07-19 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Backup Disque"
+msgstr "Sauvegarde Disque"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Préférences"
+msgstr "Préférences"
+
+msgid "Infos"
+msgstr "Infos"
+
+msgid "Copie / Clonage"
+msgstr "Copie / Clonage"
+
+msgid "Disque source"
+msgstr "Disque source"
+
+msgid "Disque destination"
+msgstr "Disque destination"
+
+msgid "Copier dossiers utilisateurs"
+msgstr "Copier les dossiers utilisateurs"
+
+msgid "Cloner disque"
+msgstr "Cloner le disque"
+
+msgid "Format & Conversion"
+msgstr "Formatage & Conversion"
+
+msgid "Disque à formater"
+msgstr "Disque à formater"
+
+msgid "Système de fichiers"
+msgstr "Système de fichiers"
+
+msgid "Label du volume"
+msgstr "Étiquette du volume"
+
+msgid "Type de conversion"
+msgstr "Type de conversion"
+
+msgid "Formater et convertir"
+msgstr "Formater et convertir"
+
+msgid "Erreur"
+msgstr "Erreur"
+
+msgid "Veuillez sélectionner les disques source et destination."
+msgstr "Veuillez sélectionner les disques source et destination."
+
+msgid "Début de la copie des dossiers utilisateurs..."
+msgstr "Début de la copie des dossiers utilisateurs..."
+
+msgid "Copie terminée avec succès."
+msgstr "Copie terminée avec succès."
+
+msgid "La copie a échoué ou aucun dossier trouvé."
+msgstr "La copie a échoué ou aucun dossier trouvé."
+
+msgid "Terminé"
+msgstr "Terminé"
+
+msgid "Début du clonage du disque..."
+msgstr "Début du clonage du disque..."
+
+msgid "Clonage terminé avec succès."
+msgstr "Clonage terminé avec succès."
+
+msgid "Le clonage a échoué."
+msgstr "Le clonage a échoué."
+
+msgid "Veuillez sélectionner le disque à formater."
+msgstr "Veuillez sélectionner le disque à formater."
+
+msgid "Début du formatage et conversion..."
+msgstr "Début du formatage et de la conversion..."
+
+msgid "Formatage et conversion terminés avec succès."
+msgstr "Formatage et conversion terminés avec succès."
+
+msgid "Le formatage/conversion a échoué."
+msgstr "Le formatage ou la conversion a échoué."
+
+msgid "Quitter"
+msgstr "Quitter"
+
+msgid "Êtes-vous sûr de vouloir quitter ?"
+msgstr "Êtes-vous sûr de vouloir quitter ?"
+
+msgid "Sauvegarder"
+msgstr "Sauvegarder"
+
+msgid "L'application va redémarrer pour appliquer la langue."
+msgstr "L'application va redémarrer pour appliquer la langue."
+
+msgid "Aucun dossier utilisateur trouvé."
+msgstr "Aucun dossier utilisateur trouvé."
+
+msgid "Recherche des dossiers utilisateurs dans {src_root}..."
+msgstr "Recherche des dossiers utilisateurs dans {src_root}..."
+
+msgid "Clonage de {src} vers {dst}..."
+msgstr "Clonage de {src} vers {dst}..."
+
+msgid "Clonage terminé."
+msgstr "Clonage terminé."
+
+msgid "Dossiers trouvés : {folders}"
+msgstr "Dossiers trouvés : {folders}"
+
+msgid "Copie de {folder} de {src} vers {dst}"
+msgstr "Copie de {folder} de {src} vers {dst}"
+
+msgid "{folder} copié avec succès."
+msgstr "{folder} copié avec succès."
+
+msgid "Fermer"
+msgstr "Fermer"
+
+msgid "Informations"
+msgstr "Informations"
+
+msgid "Impossible de trouver le disque pour {drive}:\\"
+msgstr "Impossible de trouver le disque pour {drive}:\\"
+
+msgid "Formatage et conversion du disque {disk} (lettre {drive})..."
+msgstr "Formatage et conversion du disque {disk} (lettre {drive})..."
+
+msgid "Formatage et conversion terminés."
+msgstr "Formatage et conversion terminés."
+
+msgid "Erreur lors du formatage/conversion : {error}"
+msgstr "Erreur lors du formatage/conversion : {error}"
+
+msgid "Erreur inattendue : {error}"
+msgstr "Erreur inattendue : {error}"
+
+msgid "[ERREUR] Lettre de lecteur introuvable dans list volume"
+msgstr "[ERREUR] Lettre de lecteur introuvable dans list volume"
+
+msgid "[ERREUR] Impossible de parser le numéro de volume"
+msgstr "[ERREUR] Impossible de parser le numéro de volume"
+
+msgid "[ERREUR] Impossible de trouver le disque associé dans detail volume"
+msgstr "[ERREUR] Impossible de trouver le disque associé dans detail volume"
+
+msgid "[INFO] Disque trouvé : {disk_num} pour la lettre {drive_letter}"
+msgstr "[INFO] Disque trouvé : {disk_num} pour la lettre {drive_letter}"
+
+msgid "EdenDisk - Gestionnaire de Disques Pro"
+msgstr "EdenDisk - Gestionnaire de Disques Pro"
+
+msgid "Copie des fichiers utilisateurs"
+msgstr "Copie des fichiers utilisateurs"
+
+msgid "Disque Source :"
+msgstr "Disque Source :"
+
+msgid "Dossier Destination :"
+msgstr "Dossier Destination :"
+
+msgid "Parcourir"
+msgstr "Parcourir"
+
+msgid "⚡Démarrer la copie"
+msgstr "⚡Démarrer la copie"
+
+msgid "Clonage de Disque"
+msgstr "Clonage de Disque"
+
+msgid "Disque Destination :"
+msgstr "Disque Destination :"
+
+msgid "⚡Démarrer le clonage"
+msgstr "⚡Démarrer le clonage"
+
+msgid "Formatage & Conversion"
+msgstr "Formatage & Conversion"
+
+msgid "Système de fichiers :"
+msgstr "Système de fichiers :"
+
+msgid "Type de conversion :"
+msgstr "Type de conversion :"
+
+msgid "Nom du volume :"
+msgstr "Nom du volume :"
+
+msgid "⚡ Démarrer"
+msgstr "⚡ Démarrer"
+
+msgid "Licence"
+msgstr "Licence"
+
+msgid "Gestionnaire de Disques Professionnel"
+msgstr "Gestionnaire de Disques Professionnel"
+
+msgid "Outil de sauvegarde, clonage et formatage."
+msgstr "Outil de sauvegarde, clonage et formatage."
+
+msgid "Début de la copie des données utilisateur..."
+msgstr "Début de la copie des données utilisateur..."
+
+msgid "Êtes-vous sûr de vouloir quitter ?"
+msgstr "Êtes-vous sûr de vouloir quitter ?"
+
+msgid "Veuillez sélectionner le disque source et le dossier de destination."
+msgstr "Veuillez sélectionner le disque source et le dossier de destination."
+
+msgid "Sélectionnez la langue :"
+msgstr "Sélectionnez la langue :"
+
+msgid "💾 Enregistrer"
+msgstr "💾 Enregistrer"
+
+msgid "Paramètres"
+msgstr "Paramètres"
+
+msgid "Copie"
+msgstr "Copie"
+
+msgid "Clonage"
+msgstr "Clonage"
+
+msgid "Formatage"
+msgstr "Formatage"
+
+msgid "prêt."
+msgstr "prêt."
+
+msgid "⚙ Paramètres"
+msgstr "⚙ Paramètres"
+
+msgid "Disque à formater :"
+msgstr "Disque à formater :"
+
+msgid "Outil professionnel de sauvegarde, clonage et formatage"
+msgstr "Outil professionnel de sauvegarde, clonage et formatage"
+
+msgid "Système Opérationnel"
+msgstr "Système Opérationnel"
+
+msgid "Page sélectionnée : {page}"
+msgstr "Page sélectionnée : {page}"
+
+msgid "Disques disponibles pour clonage : {drives}"
+msgstr "Disques disponibles pour clonage : {drives}"
+
+msgid "Langue"
+msgstr "Langue"
+
+msgid "Entrez votre clé de licence :"
+msgstr "Entrez votre clé de licence :"
+
+msgid "🔑 Valider la clé"
+msgstr "🔑 Valider la clé"
+
+msgid "Licence valide jusqu'au "
+msgstr "Licence valide jusqu'au "
+
+msgid "Aucune modification effectuée."
+msgstr "Aucune modification effectuée."
+
+msgid "Clé invalide"
+msgstr "Clé invalide"
+
+msgid "Le format de la clé est incorrect."
+msgstr "Le format de la clé est incorrect."
+
+msgid "Clé déjà activée"
+msgstr "Clé déjà activée"
+
+msgid "Cette clé est déjà activée."
+msgstr "Cette clé est déjà activée."
+
+msgid "Licence requise"
+msgstr "Licence requise"
+
+msgid "Veuillez valider la clé de licence pour accéder à cette fonctionnalité."
+msgstr "Veuillez valider la clé de licence pour accéder à cette fonctionnalité."
+
+msgid "Licence validée"
+msgstr "Licence validée"
+
+msgid "Merci! La licence est maintenant activée."
+msgstr "Merci! La licence est maintenant activée."
+
+msgid " ({remaining_days} jours restants)"
+msgstr " ({remaining_days} jours restants)"
+
+msgid "Activation de la Licence"
+msgstr "Activation de la Licence"
+
+msgid "Ce produit nécessite une clé de licence fournie par codetech.com."
+msgstr "Ce produit nécessite une clé de licence fournie par codetech.com."
+
+msgid "Langue de l'application :"
+msgstr "Langue de l'application :"
+
+msgid "Informations sur l'application"
+msgstr "Informations sur l'application"
+
+msgid "Langue modifiée avec succès.\nRedémarrez l'application pour appliquer les changements."
+msgstr "Langue modifiée avec succès.\nRedémarrez l'application pour appliquer les changements."
+
+msgid "Console de Logs"
+msgstr "Console de Logs"
+
+msgid "Aucune clé activée."
+msgstr "Aucune clé activée."

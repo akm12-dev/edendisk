@@ -1,0 +1,32 @@
+EDENDISK LICENSE (free software)
+
+© 2025-2026 AKM12 – Advanced Knowledge & Maintenance (https://akm12.com).
+
+1. FREE OF CHARGE
+EdenDisk is free. It requires no registration, licence key or payment.
+You may install and use it on as many computers as you wish,
+for personal or professional purposes.
+
+2. DISTRIBUTION
+The software, its logo and images remain the property of AKM12.
+To make sure the files are genuine, download it only from akm12.com
+or https://github.com/akm12-dev/releases. You may not sell, modify
+or redistribute it in any other form without written permission.
+
+3. PRECAUTIONS
+EdenDisk copies data and can COMPLETELY ERASE a disk ("Preparation" screen).
+An erased disk cannot be recovered. Before any operation:
+- back up important data;
+- check the number, model and size of the selected disk.
+The software refuses to erase the system disk, but it cannot know
+whether another disk holds data you need.
+
+4. NO WARRANTY
+EdenDisk is provided "as is", without warranty of any kind. To the extent
+permitted by law, AKM12 shall not be liable for any data loss
+or other damage resulting from its use.
+
+5. REPORT A PROBLEM
+https://github.com/akm12-dev/releases/issues
+
+By clicking "I accept", you confirm that you have read and accepted these terms.

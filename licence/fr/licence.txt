@@ -1,0 +1,32 @@
+LICENCE D'UTILISATION – EDENDISK (logiciel gratuit)
+
+© 2025-2026 AKM12 – Advanced Knowledge & Maintenance (https://akm12.com).
+
+1. GRATUITÉ
+EdenDisk est gratuit. Il ne demande ni inscription, ni clé de licence, ni paiement.
+Vous pouvez l'installer et l'utiliser sur autant d'ordinateurs que vous le souhaitez,
+à titre personnel comme professionnel.
+
+2. DIFFUSION
+Le logiciel, son logo et ses images restent la propriété d'AKM12.
+Pour garantir l'authenticité des fichiers, téléchargez-le uniquement depuis akm12.com
+ou https://github.com/akm12-dev/releases. Il est interdit de le vendre, de le modifier
+ou de le redistribuer sous une autre forme sans autorisation écrite.
+
+3. PRÉCAUTIONS
+EdenDisk copie des données et peut EFFACER entièrement un disque (écran « Préparation »).
+Un disque effacé ne peut pas être récupéré. Avant toute opération :
+- sauvegardez les données importantes ;
+- vérifiez le numéro, le modèle et la taille du disque choisi.
+Le logiciel refuse d'effacer le disque système, mais il ne peut pas savoir
+si un autre disque contient des données dont vous avez besoin.
+
+4. ABSENCE DE GARANTIE
+EdenDisk est fourni « en l'état », sans garantie d'aucune sorte. Dans les limites
+permises par la loi, AKM12 ne pourra être tenu responsable
+d'une perte de données ou de tout autre dommage résultant de son utilisation.
+
+5. SIGNALER UN PROBLÈME
+https://github.com/akm12-dev/releases/issues
+
+En cliquant sur « J'accepte », vous confirmez avoir lu et accepté ces conditions.

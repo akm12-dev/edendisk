@@ -1,0 +1,727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EdenDisk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-19 12:00+0000\n"
+"PO-Revision-Date: 2025-07-19 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Backup Disque"
+msgstr "Disk Backup"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Préférences"
+msgstr "Preferences"
+
+msgid "Infos"
+msgstr "Info"
+
+msgid "Copie / Clonage"
+msgstr "Copy / Clone"
+
+msgid "Disque source"
+msgstr "Source Drive"
+
+msgid "Disque destination"
+msgstr "Destination Drive"
+
+msgid "Copier dossiers utilisateurs"
+msgstr "Copy user folders"
+
+msgid "Cloner disque"
+msgstr "Clone disk"
+
+msgid "Format & Conversion"
+msgstr "Format & Conversion"
+
+msgid "Disque à formater"
+msgstr "Drive to format"
+
+msgid "Système de fichiers"
+msgstr "File system"
+
+msgid "Label du volume"
+msgstr "Volume label"
+
+msgid "Type de conversion"
+msgstr "Conversion type"
+
+msgid "Formater et convertir"
+msgstr "Format and convert"
+
+msgid "Erreur"
+msgstr "Error"
+
+msgid "Veuillez sélectionner les disques source et destination."
+msgstr "Please select source and destination drives."
+
+msgid "Début de la copie des dossiers utilisateurs..."
+msgstr "Starting to copy user folders..."
+
+msgid "Copie terminée avec succès."
+msgstr "Copy completed successfully."
+
+msgid "La copie a échoué ou aucun dossier trouvé."
+msgstr "Copy failed or no folders found."
+
+msgid "Terminé"
+msgstr "Done"
+
+msgid "Début du clonage du disque..."
+msgstr "Starting disk cloning..."
+
+msgid "Clonage terminé avec succès."
+msgstr "Cloning completed successfully."
+
+msgid "Le clonage a échoué."
+msgstr "Cloning failed."
+
+msgid "Veuillez sélectionner le disque à formater."
+msgstr "Please select the drive to format."
+
+msgid "Début du formatage et conversion..."
+msgstr "Starting format and conversion..."
+
+msgid "Formatage et conversion terminés avec succès."
+msgstr "Format and conversion completed successfully."
+
+msgid "Le formatage/conversion a échoué."
+msgstr "Format or conversion failed."
+
+msgid "Quitter"
+msgstr "Exit"
+
+msgid "Êtes-vous sûr de vouloir quitter ?"
+msgstr "Are you sure you want to exit?"
+
+msgid "Sauvegarder"
+msgstr "Save"
+
+msgid "L'application va redémarrer pour appliquer la langue."
+msgstr "The application will restart to apply the language."
+
+msgid "Aucun dossier utilisateur trouvé."
+msgstr "No user folders found."
+
+msgid "Recherche des dossiers utilisateurs dans {src_root}..."
+msgstr "Searching user folders in {src_root}..."
+
+msgid "Clonage de {src} vers {dst}..."
+msgstr "Cloning from {src} to {dst}..."
+
+msgid "Clonage terminé."
+msgstr "Cloning completed."
+
+msgid "Dossiers trouvés : {folders}"
+msgstr "Folders found: {folders}"
+
+msgid "Copie de {folder} de {src} vers {dst}"
+msgstr "Copying {folder} from {src} to {dst}"
+
+msgid "{folder} copié avec succès."
+msgstr "{folder} copied successfully."
+
+msgid "Fermer"
+msgstr "Close"
+
+msgid "Informations"
+msgstr "Information"
+
+msgid "Impossible de trouver le disque pour {drive}:\\"
+msgstr "Unable to find drive for {drive}:\\"
+
+msgid "Formatage et conversion du disque {disk} (lettre {drive})..."
+msgstr "Formatting and converting disk {disk} (drive letter {drive})..."
+
+msgid "Formatage et conversion terminés."
+msgstr "Formatting and conversion completed."
+
+msgid "Erreur lors du formatage/conversion : {error}"
+msgstr "Error during formatting/conversion: {error}"
+
+msgid "Erreur inattendue : {error}"
+msgstr "Unexpected error: {error}"
+
+msgid "[ERREUR] Lettre de lecteur introuvable dans list volume"
+msgstr "[ERROR] Drive letter not found in list volume"
+
+msgid "[ERREUR] Impossible de parser le numéro de volume"
+msgstr "[ERROR] Unable to parse volume number"
+
+msgid "[ERREUR] Impossible de trouver le disque associé dans detail volume"
+msgstr "[ERROR] Unable to find associated disk in detail volume"
+
+msgid "[INFO] Disque trouvé : {disk_num} pour la lettre {drive_letter}"
+msgstr "[INFO] Disk found: {disk_num} for drive letter {drive_letter}"
+
+msgid "EdenDisk - Gestionnaire de Disques Pro"
+msgstr "EdenDisk - Pro Disk Manager"
+
+msgid "Copie des fichiers utilisateurs"
+msgstr "Copy user files"
+
+msgid "Disque Source :"
+msgstr "Source Drive:"
+
+msgid "Dossier Destination :"
+msgstr "Destination Folder:"
+
+msgid "Parcourir"
+msgstr "Browse"
+
+msgid "⚡Démarrer la copie"
+msgstr "⚡Start Copy"
+
+msgid "Clonage de Disque"
+msgstr "Disk Cloning"
+
+msgid "Disque Destination :"
+msgstr "Destination Drive:"
+
+msgid "⚡Démarrer le clonage"
+msgstr "⚡Start Cloning"
+
+msgid "Formatage & Conversion"
+msgstr "Formatting & Conversion"
+
+msgid "Système de fichiers :"
+msgstr "File System:"
+
+msgid "Type de conversion :"
+msgstr "Conversion Type:"
+
+msgid "Nom du volume :"
+msgstr "Volume Label:"
+
+msgid "⚡ Démarrer"
+msgstr "⚡ Start"
+
+msgid "Licence"
+msgstr "License"
+
+msgid "Début de la copie des données utilisateur..."
+msgstr "Starting user data copy..."
+
+msgid "Êtes-vous sûr de vouloir quitter ?"
+msgstr "Are you sure you want to exit?"
+
+msgid "Veuillez sélectionner le disque source et le dossier de destination."
+msgstr "Please select source drive and destination folder."
+
+msgid "Sélectionnez la langue :"
+msgstr "Select language:"
+
+msgid "💾 Enregistrer"
+msgstr "💾 Save"
+
+msgid "Paramètres"
+msgstr "Settings"
+
+msgid "Copie"
+msgstr "Copy"
+
+msgid "Clonage"
+msgstr "Clone"
+
+msgid "Formatage"
+msgstr "Format"
+
+msgid "Gestionnaire de Disques Professionnel"
+msgstr "Professional Disk Manager"
+
+msgid "Outil de sauvegarde, clonage et formatage."
+msgstr "Backup, cloning, and formatting tool."
+
+msgid "prêt."
+msgstr "ready."
+
+msgid "⚙ Paramètres"
+msgstr "⚙ Settings"
+
+msgid "Disque à formater :"
+msgstr "Disk to format:"
+
+msgid "Outil professionnel de sauvegarde, clonage et formatage"
+msgstr "Professional backup, cloning and formatting tool"
+
+msgid "Système Opérationnel"
+msgstr "Operating System"
+
+msgid "Page sélectionnée : {page}"
+msgstr "Selected page: {page}"
+
+msgid "Disques disponibles pour clonage : {drives}"
+msgstr "Available drives for cloning: {drives}"
+
+msgid "Langue"
+msgstr "Language"
+
+msgid "Entrez votre clé de licence :"
+msgstr "Enter your license key:"
+
+msgid "🔑 Valider la clé"
+msgstr "🔑 Confirm the key"
+
+msgid "Licence valide jusqu'au "
+msgstr "License valid until "
+
+msgid "Aucune modification effectuée."
+msgstr "No changes made."
+
+msgid "Clé invalide"
+msgstr "Invalid key"
+
+msgid "Le format de la clé est incorrect."
+msgstr "The key format is incorrect."
+
+msgid "Clé déjà activée"
+msgstr "Key already activated"
+
+msgid "Cette clé est déjà activée."
+msgstr "This key is already activated."
+
+msgid "Licence requise"
+msgstr "License required"
+
+msgid "Veuillez valider la clé de licence pour accéder à cette fonctionnalité."
+msgstr "Please validate the license key to access this feature."
+
+msgid "Licence validée"
+msgstr "Activation successful"
+
+msgid "Merci! La licence est maintenant activée."
+msgstr "Thank you! The license is now activated."
+
+msgid " ({remaining_days} jours restants)"
+msgstr " ({remaining_days} days remaining)"
+
+msgid "Activation de la Licence"
+msgstr "License Activation"
+
+msgid "Ce produit nécessite une clé de licence fournie par codetech.com."
+msgstr "This product requires a license key provided by codetech.com."
+
+msgid "Langue de l'application :"
+msgstr "App language"
+
+msgid "Informations sur l'application"
+msgstr "About"
+
+msgid "Langue modifiée avec succès.\nRedémarrez l'application pour appliquer les changements."
+msgstr "Language updated successfully.\nRestart the application to apply the changes."
+
+msgid "Console de Logs"
+msgstr "Log Console"
+
+msgid "Aucune clé activée."
+msgstr "No key activated."
+
+# --- EdenDisk 2.0 : préparation de disque sécurisée ---
+msgid " Nouveau lecteur : {letter}:"
+msgstr " New drive: {letter}:"
+
+msgid "Actualiser la liste"
+msgstr "Refresh list"
+
+msgid "Annuler"
+msgstr "Cancel"
+
+msgid "Ce disque ne peut pas être préparé : {reasons}."
+msgstr "This disk cannot be prepared: {reasons}."
+
+msgid "Confirmer l'effacement"
+msgstr "Confirm erase"
+
+msgid "Connexion"
+msgstr "Connection"
+
+msgid "Disque préparé avec succès."
+msgstr "Disk prepared successfully."
+
+msgid "Disque {num} — {name} ({size}, {bus})"
+msgstr "Disk {num} — {name} ({size}, {bus})"
+
+msgid "Efface entièrement le disque choisi (toutes ses partitions), puis crée une partition unique formatée."
+msgstr "Completely erases the selected disk (all its partitions), then creates a single formatted partition."
+
+msgid "Effacer et préparer le disque…"
+msgstr "Erase and prepare disk…"
+
+msgid "Effacer le disque {num}"
+msgstr "Erase disk {num}"
+
+msgid "Impossible de lire la liste des disques : {error}"
+msgstr "Unable to read the disk list: {error}"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "La source et la destination doivent être différentes."
+msgstr "Source and destination must be different."
+
+msgid "Lecteurs"
+msgstr "Drives"
+
+msgid "Lecture des disques…"
+msgstr "Reading disks…"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "N°"
+msgstr "No."
+
+msgid "Options invalides"
+msgstr "Invalid options"
+
+msgid "Opération refusée"
+msgstr "Operation refused"
+
+msgid "Peut être préparé"
+msgstr "Can be prepared"
+
+msgid "Pour confirmer, tapez le numéro du disque ({num}) :"
+msgstr "To confirm, type the disk number ({num}):"
+
+msgid "Protégé : {reasons}"
+msgstr "Protected: {reasons}"
+
+msgid "Préparation annulée."
+msgstr "Preparation cancelled."
+
+msgid "Préparation d'un disque"
+msgstr "Prepare a disk"
+
+msgid "Préparation du disque {num} ({name}) : {style}, {fs}, « {label} »…"
+msgstr "Preparing disk {num} ({name}): {style}, {fs}, \"{label}\"…"
+
+msgid "Sera entièrement effacé : disque {num} — {name} ({size})"
+msgstr "Will be completely erased: disk {num} — {name} ({size})"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Style de partition :"
+msgstr "Partition style:"
+
+msgid "Sélectionnez le disque à préparer."
+msgstr "Select the disk to prepare."
+
+msgid "Taille"
+msgstr "Size"
+
+msgid "Toutes les données du disque suivant seront définitivement effacées :"
+msgstr "All data on the following disk will be permanently erased:"
+
+msgid "Veuillez sélectionner le disque à préparer."
+msgstr "Please select the disk to prepare."
+
+msgid "aucune partition"
+msgstr "no partition"
+
+msgid "{count} disque(s) détecté(s)."
+msgstr "{count} disk(s) detected."
+
+msgid "Échec"
+msgstr "Failed"
+
+msgid "État"
+msgstr "Status"
+
+# --- EdenDisk 2.0 : écran Disques ---
+msgid "Actualiser"
+msgstr "Refresh"
+
+msgid "Attention : Windows signale un problème sur {count} disque(s)."
+msgstr "Warning: Windows reports a problem on {count} disk(s)."
+
+msgid "Ce disque peut être préparé (effacé puis formaté)."
+msgstr "This disk can be prepared (erased then formatted)."
+
+msgid "Disques"
+msgstr "Disks"
+
+msgid "Erreurs de lecture non corrigées"
+msgstr "Uncorrected read errors"
+
+msgid "Heures de fonctionnement"
+msgstr "Power-on hours"
+
+msgid "Lecteur"
+msgstr "Drive"
+
+msgid "Libre"
+msgstr "Free"
+
+msgid "Nom"
+msgstr "Name"
+
+msgid "Non communiqué"
+msgstr "Not reported"
+
+msgid "Numéro de série"
+msgstr "Serial number"
+
+msgid "Occupé"
+msgstr "Used"
+
+msgid "Ouvrir le lecteur"
+msgstr "Open drive"
+
+msgid "Protégé contre l'effacement : {reasons}."
+msgstr "Protected against erasing: {reasons}."
+
+msgid "Préparer ce disque…"
+msgstr "Prepare this disk…"
+
+msgid "Rôle"
+msgstr "Role"
+
+msgid "Santé"
+msgstr "Health"
+
+msgid "Santé (Windows)"
+msgstr "Health (Windows)"
+
+msgid "Température"
+msgstr "Temperature"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Usure"
+msgstr "Wear"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Bon"
+msgstr "Good"
+
+msgid "Avertissement"
+msgstr "Warning"
+
+msgid "Défaillant"
+msgstr "Failing"
+
+msgid "Inconnu"
+msgstr "Unknown"
+
+msgid "SSD"
+msgstr "SSD"
+
+msgid "Disque dur"
+msgstr "Hard disk"
+
+msgid "Mémoire persistante"
+msgstr "Persistent memory"
+
+# --- EdenDisk 2.0 : transfert des données ---
+msgid "Analyse en cours (calcul de la taille)…"
+msgstr "Analysing (calculating size)…"
+
+msgid "Analyser"
+msgstr "Analyse"
+
+msgid "Arrêt demandé…"
+msgstr "Stop requested…"
+
+msgid "Arrêter"
+msgstr "Stop"
+
+msgid "Aucun dossier à copier : cochez au moins un profil et un dossier."
+msgstr "Nothing to copy: tick at least one profile and one folder."
+
+msgid "Aucun profil utilisateur trouvé dans {drive}:\\Users."
+msgstr "No user profile found in {drive}:\\Users."
+
+msgid "Choisissez d'abord le dossier de destination."
+msgstr "Choose the destination folder first."
+
+msgid "Choisissez le disque source, les profils et la destination, puis cliquez sur Analyser."
+msgstr "Choose the source disk, the profiles and the destination, then click Analyse."
+
+msgid "Copie les dossiers des profils utilisateurs d'un disque (par exemple l'ancien PC branché en USB) vers un dossier. Rien n'est supprimé ; un transfert interrompu peut être relancé."
+msgstr "Copies the user profile folders of a disk (for example the old PC connected over USB) to a folder. Nothing is deleted; an interrupted transfer can be resumed."
+
+msgid "Destination :"
+msgstr "Destination:"
+
+msgid "Destination refusée"
+msgstr "Destination refused"
+
+msgid "Disque source :"
+msgstr "Source disk:"
+
+msgid "Dossier OneDrive (fichiers présents sur le disque uniquement)"
+msgstr "OneDrive folder (files stored on the disk only)"
+
+msgid "Dossiers à copier"
+msgstr "Folders to copy"
+
+msgid "Démarrer le transfert"
+msgstr "Start transfer"
+
+msgid "Espace insuffisant sur la destination."
+msgstr "Not enough space on the destination."
+
+msgid "Ouvrir le rapport"
+msgstr "Open report"
+
+msgid "Parcourir…"
+msgstr "Browse…"
+
+msgid "Profils (cliquez pour cocher ou décocher)"
+msgstr "Profiles (click to tick or untick)"
+
+msgid "Rapport : {path}"
+msgstr "Report: {path}"
+
+msgid "Recherche des profils…"
+msgstr "Looking for profiles…"
+
+msgid "Transfert"
+msgstr "Transfer"
+
+msgid "Transfert des données"
+msgstr "Data transfer"
+
+msgid "Transfert démarré vers {dst}."
+msgstr "Transfer started to {dst}."
+
+msgid "Transfert interrompu. Relancez-le pour reprendre : les fichiers déjà copiés seront ignorés."
+msgstr "Transfer interrupted. Start it again to resume: files already copied will be skipped."
+
+msgid "Transfert terminé avec {count} fichier(s) non copié(s) : voir le rapport."
+msgstr "Transfer finished with {count} file(s) not copied: see the report."
+
+msgid "Transfert terminé sans erreur."
+msgstr "Transfer finished without errors."
+
+msgid "arrêté"
+msgstr "stopped"
+
+msgid "{count} fichier(s) OneDrive « en ligne uniquement » ne seront pas copiés."
+msgstr "{count} OneDrive \"online-only\" file(s) will not be copied."
+
+msgid "{count} profil(s) trouvé(s). Choisissez la destination puis cliquez sur Analyser."
+msgstr "{count} profile(s) found. Choose the destination then click Analyse."
+
+msgid "{files} fichiers, {size} à copier ({folders} dossiers). Espace libre sur la destination : {free}."
+msgstr "{files} files, {size} to copy ({folders} folders). Free space on the destination: {free}."
+
+msgid "{profile} / {folder} ({index}/{count})"
+msgstr "{profile} / {folder} ({index}/{count})"
+
+msgid "Bureau"
+msgstr "Desktop"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Images"
+msgstr "Pictures"
+
+msgid "Musique"
+msgstr "Music"
+
+msgid "Vidéos"
+msgstr "Videos"
+
+msgid "Téléchargements"
+msgstr "Downloads"
+
+msgid "Favoris"
+msgstr "Favorites"
+
+# --- EdenDisk 2.0 : nouveau design, copie de lecteur, paramètres ---
+msgid "Afficher"
+msgstr "Show"
+
+msgid "Choisissez le lecteur et le dossier de destination, puis cliquez sur Analyser."
+msgstr "Choose the drive and the destination folder, then click Analyse."
+
+msgid "Choisissez le lecteur à copier et le dossier de destination."
+msgstr "Choose the drive to copy and the destination folder."
+
+msgid "Copie complète d'un lecteur"
+msgstr "Full drive copy"
+
+msgid "Copie de lecteur"
+msgstr "Drive copy"
+
+msgid "Copie de {src} vers {dst}."
+msgstr "Copying {src} to {dst}."
+
+msgid "Copie en cours…"
+msgstr "Copying…"
+
+msgid "Copie interrompue. Relancez-la pour reprendre : les fichiers déjà copiés seront ignorés."
+msgstr "Copy interrupted. Start it again to resume: files already copied will be skipped."
+
+msgid "Copie terminée avec {count} fichier(s) non copié(s) : voir le rapport."
+msgstr "Copy finished with {count} file(s) not copied: see the report."
+
+msgid "Copie terminée sans erreur."
+msgstr "Copy finished without errors."
+
+msgid "Copie tous les fichiers d'un lecteur dans un dossier (sauvegarde avant intervention, par exemple). Les fichiers système de Windows sont ignorés. Le résultat n'est pas un disque démarrable : ce n'est pas un clonage."
+msgstr "Copies all files of a drive into a folder (for example, a backup before a repair). Windows system files are skipped. The result is not a bootable disk: this is not a clone."
+
+msgid "Dossier de destination"
+msgstr "Destination folder"
+
+msgid "Démarrer la copie"
+msgstr "Start copy"
+
+msgid "Développé et distribué par AKM12 — Advanced Knowledge & Maintenance."
+msgstr "Developed and distributed by AKM12 — Advanced Knowledge & Maintenance."
+
+msgid "Effacer"
+msgstr "Clear"
+
+msgid "Enregistrer"
+msgstr "Save"
+
+msgid "Journal"
+msgstr "Log"
+
+msgid "Langue de l'application"
+msgstr "Application language"
+
+msgid "Le changement s'applique au prochain démarrage d'EdenDisk."
+msgstr "The change applies the next time EdenDisk starts."
+
+msgid "Lecteur à copier"
+msgstr "Drive to copy"
+
+msgid "Logiciel gratuit, sans inscription ni clé de licence."
+msgstr "Free software, no registration or licence key."
+
+msgid "Masquer"
+msgstr "Hide"
+
+msgid "Outil gratuit AKM12"
+msgstr "Free AKM12 tool"
+
+msgid "Préparation"
+msgstr "Preparation"
+
+msgid "Transfert de données et préparation de disques"
+msgstr "Data transfer and disk preparation"
+
+msgid "{count} dossier(s) illisible(s) seront ignorés (droits d'accès)."
+msgstr "{count} unreadable folder(s) will be skipped (access rights)."
+
+msgid "{files} fichiers, {size} à copier. Espace libre sur la destination : {free}."
+msgstr "{files} files, {size} to copy. Free space on the destination: {free}."
+
+msgid "À propos"
+msgstr "About"
